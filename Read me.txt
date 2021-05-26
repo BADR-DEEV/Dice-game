@@ -1,0 +1,8 @@
+A really old simple game with simple logic just 6 lines of javascript.
+
+all what you need to do is to refresh if the number is higher you win.
+
+yeah iam too lazy i did't make buttons. 
+
+
+
